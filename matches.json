@@ -8,12 +8,12 @@
     "homePlayer": {
       "name": "Brasil",
       "power": 5,
-      "picture": "TODO"
+      "picture": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "awayPlayer": {
       "name": "Argentina",
       "power": 5,
-      "picture": "TODO"
+      "picture": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
